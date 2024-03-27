@@ -1,0 +1,19 @@
+@media only screen and (min-width:1024px) {
+    #about-wrapper {
+        width: 40%;
+        margin-left: 11%;
+    }
+
+    #about-sub {
+        width: 40%;
+        margin-left: 54%;
+    }
+
+    #skill-wrapper {
+        padding: 20rem 2rem 2rem 2rem;
+    }
+
+    #footer-content {
+        margin-bottom: 10rem;
+    }
+}
